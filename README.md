@@ -48,6 +48,12 @@ A clean, scalable Node.js + Express + MongoDB backend powering the AI-enabled de
 - CORS enabled for frontend integration  
 - Organized, clean folder structure for scalability
 
+## Author
+
+- Shrikanth-Dev
+- [GitHub](https://github.com/shrikanth-dev)
+- LinkedIn - [@G Srikanth](https://www.linkedin.com/in/g-srikanth-gs)
+
 ## Getting Started
 
 1. **Clone the repository:**
@@ -75,9 +81,5 @@ OPENAI_API_KEY=your_openai_api_key
 ```bash
 npm run dev
 
-## Author
 
-- Shrikanth-Dev
-- [GitHub](https://github.com/shrikanth-dev)
-- LinkedIn - [@G Srikanth](https://www.linkedin.com/in/g-srikanth-gs)
 
