@@ -26,7 +26,7 @@ A clean, scalable Node.js + Express + MongoDB backend powering the AI-enabled de
 
 ### Links
 
-- **Live API:** [https://mern-portfolio-frontend-srikanth-godugus-projects.vercel.app/](https://mern-portfolio-frontend-srikanth-godugus-projects.vercel.app/)
+- **Live API:** [https://shrikanthdev-portfolio.vercel.app/](https://shrikanthdev-portfolio.vercel.app/)
 - **Frontend Repository:** [https://github.com/shrikanth-dev/mern-portfolio-frontend](https://github.com/shrikanth-dev/mern-portfolio-frontend)
 - **Backend Repository:** [https://github.com/shrikanth-dev/mern-portfolio-backend](https://github.com/shrikanth-dev/mern-portfolio-backend)
 
